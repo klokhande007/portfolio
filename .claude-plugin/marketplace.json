@@ -1,6 +1,8 @@
 {
   "name": "twtai",
-  "owner": { "name": "Tech Writer's Tribe" },
+  "owner": {
+    "name": "Tech Writer's Tribe"
+  },
   "plugins": [
     {
       "name": "doc-skills",
