@@ -1,6 +1,11 @@
 {
-  "name": "twtai_marketplace",
-  "owner": {
-    "name": "Tech Writer's Tribe AI Mastery"
-  }
+  "name": "twtai",
+  "owner": { "name": "Tech Writer's Tribe" },
+  "plugins": [
+    {
+      "name": "doc-skills",
+      "source": "./plugins/doc-skills",
+      "description": "Documentation commands, a skill, an agent, and remote MCP servers."
+    }
+  ]
 }
