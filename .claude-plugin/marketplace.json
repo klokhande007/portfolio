@@ -1,4 +1,6 @@
 {
   "name": "twtai_marketplace",
-  "owner": { "name": "Tech Writer's Tribe AI Mastery "},
+  "owner": {
+    "name": "Tech Writer's Tribe AI Mastery"
   }
+}
