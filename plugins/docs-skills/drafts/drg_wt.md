@@ -1,0 +1,2 @@
+What is DRG Weight?
+Displays the Relative Weight for the Primary Payer DRG. The displayed value depends on the current DRG shown in the Worklist. Before a suggested DRG is accepted, the column displays the Suggested DRG Relative Weight. After the suggested DRG is copied to the Working Record, the column displays the Working Record and Primary Record Relative Weight.
