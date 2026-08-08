@@ -1,0 +1,64 @@
+Use the SKILL.md file for the Capstone skill to process Jira project KiranL_Jira. Select tickets with "Documentation" in the Summary, create TOONS drafts, publish pages under Jira_Tickets in Confluence, and create analysis.md.
+
+claude mcp list
+
+1920 X 1080
+
+
+Mali.chetan@finastra.com
+
+
+SCRIPT:
+===========================
+
+Problem statement and description:
+
+I am creating demo for the capstone project, for which i will be using my voice narration:
+
+Most of the data for technical documentation can be scattered in Jira, PPT, word and other docs. Which makes it difficult to gather required under one umbrella. Process it for structure, grammar, and missing information and errors.
+
+In this project, we are using Claude to connect to Jira and Confluence via MCP. 
+We have created a few tickets in Jira with the Documentation tag.
+And i want to select the stories with the documentation tag and create individual pages in Confluence for each Jira tickets.
+
+The pages should display description of the new feature, Grammatical excellence, documentation  framework, and procedural steps, missing information, and final verdict, whether we require minor and major changes.
+
+We have created one skill that runs the whole chain, right from identifying the correct ticket till creating individual documentation pages in Confluence.
+================================================
+
+Actual recording procedure:
+
+To achieve this:
+
+i used /mcp command to check the Atlassian MCP connectivity.
+
+A confirmation page was displayed the connectivity.
+
+I created a prompt which specifically mentioned to use the SKILL.md file. The prompt also includes the specific scrum details from where to identity tickets in Jira. 
+A folder was created in Confluence for the pages to be displayed.
+
+Confluence created different pages for each Jira ticket under the defined folder. Each page displayed description of the feature, structural framework, Grammar completeness review, and final verdict whether the current document required minor and major review. 
+
+
+Learning:
+
+Check the MCP connection before proceeding.
+You must define your skill as precise as possible using RTCCO. Which helps to produce the desired output.
+Create a prompt that defines to use to skill and the kind of output required.
+
+==============================
+
+
+
+
+Using this information, Claude generates a structured documentation draft in Confluence. Each draft includes a structured documentation framework, grammar completeness review.
+
+Plus an analysis.md report is generated, displaying what's wrong, and how to fix it.
+
+One of the important things I learned was how MCP connects Claude to the tools we already use, such as Jira and Confluence. This allowed me to move beyond just generating content and automate an actual documentation workflow.
+
+I also found that the quality of the output depends heavily on how the skill and prompt are designed. Defining clear rules and using the RTCCO approach helped make the results more consistent.
+
+Finally, when I tested the workflow with three tickets, none of them were ready for publication. I actually consider that a successful result, because the purpose of the review is to identify gaps and issues before the documentation reaches the user.
+
+

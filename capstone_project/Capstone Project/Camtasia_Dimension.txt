@@ -1,0 +1,14 @@
+Use the SKILL.md file for the Capstone skill to process Jira project KiranL_Jira. Select tickets with "Documentation" in the Summary, create TOONS drafts, publish pages under Jira_Tickets in Confluence, and create analysis.md.
+
+claude mcp list
+
+1920 X 1080
+
+
+Mali.chetan@finastra.com
+
+
+===========================
+
+In this project, we are using Claude to connect to Jira and Confluence via MCP. 
+We have created a few tickets in Jira with the Documentation tag.
