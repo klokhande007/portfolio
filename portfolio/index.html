@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kiran Lokhande — Technical Writer</title>
+  <meta name="description" content="Portfolio of Kiran Lokhande, Technical Writer specializing in AI-assisted documentation." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <p class="brand" id="basics-name">Kiran Lokhande</p>
+      <nav aria-label="Section navigation">
+        <ul class="nav-list" id="nav-list"></ul>
+      </nav>
+      <button id="theme-toggle" type="button" aria-label="Toggle dark mode">
+        <span aria-hidden="true">🌓</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- HERO / BASICS -->
+    <section id="basics" class="hero" aria-labelledby="basics-heading">
+      <div class="container hero-inner">
+        <img id="basics-image" class="avatar" src="" alt="" hidden />
+        <div>
+          <h1 id="basics-heading"></h1>
+          <p class="label" id="basics-label"></p>
+          <p class="summary" id="basics-summary"></p>
+          <ul class="contact-list" id="basics-contacts"></ul>
+          <ul class="profile-list" id="basics-profiles"></ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- WORK -->
+    <section id="work" class="section" aria-labelledby="work-heading" hidden>
+      <div class="container">
+        <h2 id="work-heading">Experience</h2>
+        <div id="work-list" class="timeline"></div>
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="section" aria-labelledby="projects-heading" hidden>
+      <div class="container">
+        <h2 id="projects-heading">Projects</h2>
+        <div id="projects-list" class="card-grid"></div>
+      </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section id="skills" class="section" aria-labelledby="skills-heading" hidden>
+      <div class="container">
+        <h2 id="skills-heading">Skills</h2>
+        <div id="skills-list" class="skills-grid"></div>
+      </div>
+    </section>
+
+    <!-- EDUCATION -->
+    <section id="education" class="section" aria-labelledby="education-heading" hidden>
+      <div class="container">
+        <h2 id="education-heading">Education</h2>
+        <div id="education-list" class="card-grid"></div>
+      </div>
+    </section>
+
+    <!-- CERTIFICATES -->
+    <section id="certificates" class="section" aria-labelledby="certificates-heading" hidden>
+      <div class="container">
+        <h2 id="certificates-heading">Certificates</h2>
+        <ul id="certificates-list" class="cert-list"></ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p id="footer-text"></p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

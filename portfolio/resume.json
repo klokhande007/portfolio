@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Kiran Lokhande",
+    "label": "Technical Writer | AI-Assisted Documentation",
+    "image": "",
+    "email": "lokhande.kiran@gmail.com",
+    "phone": "+91 95453 36988",
+    "url": "",
+    "summary": "Technical Writer with over 10 years of experience in enterprise software documentation across healthcare, CAD/PLM, and telecom domains. Skilled in structured authoring, release documentation, and AI-assisted documentation workflows. Focused on simplifying complex systems and improving user experience through clear, practical documentation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Pune",
+      "countryCode": "IN",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kiran-lokhande-tech-writer",
+        "url": "linkedin.com/in/kiran-lokhande-tech-writer"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Microsoft",
+      "position": "Technical Writer",
+      "startDate": "2023-08",
+      "endDate": "",
+      "summary": "Healthcare Documentation: Develop user-focused documentation for an AI-powered clinical documentation platform",
+      "highlights": [
+        "Developed user-focused documentation for AI-powered clinical documentation platform, including User Guides, Admin Manuals, Release Notes, FAQs, and Knowledge Base articles using Oxygen XML Editor",
+        "Improved usability and reduced customer support tickets by 25% by addressing common user issues through modular, reusable content",
+        "Used AI-assisted writing tools to speed up content creation and improve clarity",
+        "Designed scenario-based training and onboarding materials using Articulate Rise 360 and Camtasia to simplify complex workflows"
+      ]
+    },
+    {
+      "name": "Nuance",
+      "position": "Senior Technical Writer",
+      "startDate": "2020-06",
+      "endDate": "2023-08",
+      "summary": "Created and maintained User Guides, Admin Guides, System Requirements, and Release Notes for enterprise software products",
+      "highlights": [
+        "Created and maintained User Guides, Admin Guides, System Requirements, and Release Notes for enterprise software products using Oxygen XML Editor",
+        "Analyzed Jira tickets to identify documentation requirements for product enhancements, new features, and bug fixes",
+        "Translated complex product updates into clear, user-focused documentation, improving clarity and reducing support queries",
+        "Planned and delivered documentation aligned with release timelines and feature priorities in Agile environment"
+      ]
+    },
+    {
+      "name": "PTC Software",
+      "position": "Lead Technical Writing Specialist",
+      "startDate": "2014-02",
+      "endDate": "2020-06",
+      "summary": "Led the creation and maintenance of documentation for core modules of mechanical software tools",
+      "highlights": [
+        "Led creation and maintenance of documentation for core modules of mechanical software tools, supporting 2D and 3D design workflows",
+        "Developed detailed use cases and workflow examples to help users understand and use complex software features",
+        "Used Arbortext to create structured, reusable, and standardized technical documentation",
+        "Trained and mentored junior technical writers, improving team productivity and ensuring consistency in content quality"
+      ]
+    },
+    {
+      "name": "EXFO Electro Optical Engineering Pvt. Ltd.",
+      "position": "Technical Writer",
+      "startDate": "2012-06",
+      "endDate": "2014-02",
+      "summary": "Developed user guides for telecom software products",
+      "highlights": [
+        "Developed user guides for telecom software products using FrameMaker",
+        "Created release notes to communicate new features, updates, and bug fixes to internal teams and customers",
+        "Maintained consistency in formatting, terminology, and style across all documents, following company standards and best practices",
+        "Validated technical content with cross-functional teams to ensure documentation accuracy"
+      ]
+    },
+    {
+      "name": "Persistent Systems",
+      "position": "Information Developer",
+      "startDate": "2010-04",
+      "endDate": "2012-05",
+      "summary": "Developed interactive software simulations and contributed to IBM product documentation",
+      "highlights": [
+        "Developed interactive software simulations using Adobe Captivate to support user training",
+        "Contributed to creation and maintenance of IBM software product documentation using Arbortext, ensuring strict adherence to IBM style guidelines"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Modern College, Pune University",
+      "studyType": "Bachelor of Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Documentation Strategy & Content Lifecycle",
+      "level": ""
+    },
+    {
+      "name": "Content Structuring",
+      "keywords": ["Information Architecture", "Modular Writing"]
+    },
+    {
+      "name": "Agile Documentation Practices",
+      "level": ""
+    },
+    {
+      "name": "Product Feature Analysis & Documentation Mapping",
+      "level": ""
+    },
+    {
+      "name": "Technical Documentation",
+      "keywords": ["User Guides", "Admin Guides", "Release Notes"]
+    },
+    {
+      "name": "AI-Assisted Documentation",
+      "level": ""
+    },
+    {
+      "name": "System & Workflow Documentation",
+      "level": ""
+    },
+    {
+      "name": "Training & eLearning Content",
+      "level": ""
+    },
+    {
+      "name": "Authoring Tools",
+      "keywords": ["Oxygen XML Editor", "Arbortext", "FrameMaker"]
+    },
+    {
+      "name": "Documentation & Training Tools",
+      "keywords": ["Camtasia", "Articulate Rise 360", "Adobe Captivate"]
+    },
+    {
+      "name": "Project & Collaboration Tools",
+      "keywords": ["Jira", "Azure DevOps", "Git", "GitHub", "ChatGPT", "Microsoft 365 Copilot"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Azure Fundamentals"
+    },
+    {
+      "name": "Microsoft Certified: AI Azure Fundamentals"
+    }
+  ]
+}
